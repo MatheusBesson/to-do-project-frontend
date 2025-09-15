@@ -1,4 +1,4 @@
-export const API_URL = "http://localhost:8080/todos"; // URL da API
+export const API_URL = "https://to-do-project-backend-q3mc.onrender.com/todos"; // URL da API
 
 
 let selectedTodoId = null;
